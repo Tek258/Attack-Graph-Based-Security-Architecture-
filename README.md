@@ -43,6 +43,8 @@ Bu proje eğitim amaçlıdır. Hedef uygulama olan OWASP Juice Shop MIT lisansı
 
 iwas
 
+SAMSUNSPOR
+
 
 
 abc
