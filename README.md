@@ -14,11 +14,11 @@ katmanlı bir savunma tasarlar ve savunma öncesi/sonrası artık riski ölçer.
 
 | Kişi | Rol | GitHub |
 |---|---|---|
-| [Ad Soyad] | Proje Yöneticisi / Entegrasyon | [@kullanici](https://github.com/kullanici) |
-| [Ad Soyad] | Zafiyet Envanteri | [@kullanici](https://github.com/kullanici) |
-| [Ad Soyad] | Saldırı Grafiği | [@kullanici](https://github.com/kullanici) |
-| [Ad Soyad] | AI ile Önceliklendirme | [@kullanici](https://github.com/kullanici) |
-| [Ad Soyad] | Savunma Mimarisi | [@kullanici](https://github.com/kullanici) |
+| [Ekrem Arda Kınık] | Proje Yöneticisi / Entegrasyon | [@Tek258](https://github.com/Tek258) |
+| [Arda Şahindokucuyu] | Zafiyet Envanteri | [@Leroy0734](https://github.com/Leroy0734) |
+| [Göktürk Ulutaş] | Saldırı Grafiği | [@GokturkUlutas](https://github.com/GokturkUlutas) |
+| [Fatih Yılmaz] | AI ile Önceliklendirme | [@FatihYilmaz449](https://github.com/FatihYilmaz449) |
+| [Engin Armağan] | Savunma Mimarisi | [@EnginArmagan](https://github.com/EnginArmagan) |
 
 ## Yöntem
 
