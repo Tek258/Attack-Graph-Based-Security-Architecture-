@@ -35,6 +35,8 @@ katmanlı bir savunma tasarlar ve savunma öncesi/sonrası artık riski ölçer.
     ├── graph/ → saldırı grafiği kodu ve görselleştirmeleri
     ├── ai/ → risk skorlama modeli, veri ve sonuçlar
     ├── defense/ → WAF, IDS, SIEM, ağ segmentasyonu yapılandırmaları
+
+    ekrem arda kınık
     └── report/ → teknik rapor ve görseller
 
 ## Lisans
