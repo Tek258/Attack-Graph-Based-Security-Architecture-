@@ -7,7 +7,7 @@ Bu akışı her görev için tekrarlayın. `main`'e doğrudan yazmıyoruz, her i
 ## 0. Bir kereye mahsus kurulum (her kişi kendi bilgisayarında)
 
 ```bash
-git config --global user.name "Ad Soyad"
+git config --global user.name "kullanıcı adı"
 git config --global user.email "github-hesabindaki-mail@ornek.com"
 ```
 
