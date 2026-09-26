@@ -42,3 +42,5 @@ katmanlı bir savunma tasarlar ve savunma öncesi/sonrası artık riski ölçer.
 Bu proje eğitim amaçlıdır. Hedef uygulama olan OWASP Juice Shop MIT lisansı ile dağıtılmaktadır.
 aaa
 
+
+iwas
